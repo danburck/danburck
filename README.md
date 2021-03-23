@@ -5,5 +5,6 @@
 - tech:
   - [ruby, rails, react]
   - [html, css, bootstrap, javascript]
+- side-hustle: audio-mixing
 - looking-for-job: true
 ```
