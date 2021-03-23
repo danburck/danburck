@@ -8,5 +8,3 @@
 - sideHustle: audio-mixing
 - lookingForJob: true
 ```
-
-Reach me at: [danielmburckhardt](https://www.linkedin.com/in/danielmburckhardt/)
