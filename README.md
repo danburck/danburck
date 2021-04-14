@@ -3,7 +3,7 @@
 ```yaml
 - name: danburck
 - tech:
-  - [ruby, rails, react]
+  - [ruby, rails, react, redux]
   - [html, css, bootstrap, javascript]
 - side-hustle: audio-mixing
 - looking-for-job: true
