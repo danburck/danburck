@@ -6,5 +6,5 @@
   - [ruby, rails, react, redux]
   - [html, css, bootstrap, javascript]
 - sideHustle: audio-mixing
-- lookingForJob: true
+- lookingForInpiration: true
 ```
